@@ -1,0 +1,21 @@
+# Node dependencies & build outputs
+node_modules/
+dist/
+build/
+.vercel/
+
+# Python cache & environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+env/
+
+# IDE & System files
+.DS_Store
+.vscode/
+.idea/
+*.log
